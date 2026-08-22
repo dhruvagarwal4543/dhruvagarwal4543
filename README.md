@@ -424,11 +424,11 @@ Design & Experiences
 <img src="https://img.shields.io/badge/GITHUB-080A12?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/dhruv-agarwal-356395324/">
 <img src="https://img.shields.io/badge/LINKEDIN-080A12?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:agarwaldhruv192@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-080A12?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
 </a>
 
