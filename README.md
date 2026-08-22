@@ -1,16 +1,19 @@
-## Hi there 👋
+# DHRUV AGARWAL
 
-<!--
-**dhruvagarwal4543/dhruvagarwal4543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `CSE Student • Developer • AI/ML • Cloud • Creative Tech`
 
-Here are some ideas to get you started:
+> Building things at the intersection of **software, intelligence, cloud, and design.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `./current_status`
+
+```text
+[ SYSTEM STATUS ]
+
+▸ Building      → DHRUV.OS Portfolio
+▸ Exploring     → AI / ML / Computer Vision
+▸ Working with  → AWS / Cloud / RAG
+▸ Developing    → Flutter / Mobile Applications
+▸ Designing     → UI/UX / Creative Interfaces
+▸ Learning      → Systems, Architecture & Open Source
