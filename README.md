@@ -8,111 +8,116 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=760&height=30&lines=CSE+%7C+AI%2FML+%7C+AWS+%7C+FLUTTER+%7C+CREATIVE+TECH;Building+systems%2C+applications+and+digital+experiences." />
+<samp>
+&gt; SYSTEM ONLINE // DHRUV AGARWAL
+</samp>
 
 <br><br>
 
-**DHRUV AGARWAL**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2300&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=34&lines=CSE+%7C+AI%2FML+%7C+AWS+%7C+FLUTTER+%7C+CREATIVE+TECH;Building+systems%2C+applications+%26+digital+experiences;Turning+ideas+into+working+software." alt="Typing animation"/>
 
-`CSE` &nbsp;•&nbsp; `AI / ML` &nbsp;•&nbsp; `CLOUD` &nbsp;•&nbsp; `APP DEV` &nbsp;•&nbsp; `CREATIVE TECH`
+<br><br>
 
-<br>
-
-<code>BUILDING → SYSTEMS / PRODUCTS / EXPERIENCES</code>
+<code>AI / ML</code>
+&nbsp;·&nbsp;
+<code>CLOUD</code>
+&nbsp;·&nbsp;
+<code>APP DEV</code>
+&nbsp;·&nbsp;
+<code>SYSTEMS</code>
+&nbsp;·&nbsp;
+<code>DESIGN</code>
 
 <br><br>
 
 <a href="https://github.com/dhruvagarwal4543">
-<img src="https://img.shields.io/badge/GITHUB-080A12?style=flat-square&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-07111F?style=flat-square&logo=github&logoColor=67E8F9"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dhruv-agarwal-356395324/">
-<img src="https://img.shields.io/badge/LINKEDIN-080A12?style=flat-square&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-07111F?style=flat-square&logo=linkedin&logoColor=67E8F9"/>
 </a>
 &nbsp;
 <a href="mailto:agarwaldhruv192@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-080A12?style=flat-square&logo=gmail&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/EMAIL-07111F?style=flat-square&logo=gmail&logoColor=A78BFA"/>
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:05060A,35:1C2940,50:00E5FF,65:1C2940,100:05060A&animation=twinkling" width="94%"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="cyber divider"/>
+</p>
 
 <br>
 
-## TECHNOLOGY FIELD
-
 <div align="center">
 
-<table>
+<sub>01 // TECHNOLOGY MATRIX</sub>
+
+<br><br>
+
+<table width="100%">
 <tr>
 
 <td width="25%" align="center">
 
-<sub>LANGUAGES</sub>
+<img src="https://skillicons.dev/icons?i=python,dart,java,js,ts&perline=5"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,dart,java,js,ts,html,css,sql&perline=4"/>
+<code>LANGUAGES</code>
 
-<br><br>
+<br>
 
-<code>Python</code> · <code>Dart</code> · <code>Java</code><br>
-<code>JavaScript</code> · <code>TypeScript</code><br>
-<code>HTML</code> · <code>CSS</code> · <code>SQL</code>
+Python · Dart · Java<br>
+JavaScript · TypeScript
 
 </td>
 
 <td width="25%" align="center">
 
-<sub>DEVELOPMENT</sub>
+<img src="https://skillicons.dev/icons?i=flutter,react,git,github,vscode&perline=5"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=flutter,react,git,github,vscode&perline=4"/>
+<code>DEVELOPMENT</code>
 
-<br><br>
+<br>
 
-<code>Flutter</code> · <code>React</code><br>
-<code>Git</code> · <code>GitHub</code> · <code>VS Code</code><br>
-<code>API Integration</code>
+Flutter · React<br>
+Git · GitHub · VS Code
 
 </td>
 
 <td width="25%" align="center">
 
-<sub>CLOUD / AI</sub>
+<img src="https://skillicons.dev/icons?i=aws,opencv,tensorflow,pytorch,docker&perline=5"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,opencv,tensorflow,pytorch,docker&perline=4"/>
+<code>AI / CLOUD</code>
 
-<br><br>
+<br>
 
-<code>AWS</code> · <code>OpenCV</code><br>
-<code>Deep Learning</code> · <code>Computer Vision</code><br>
-<code>Cloud Systems</code>
+AWS · OpenCV<br>
+ML · Computer Vision · Cloud
 
 </td>
 
 <td width="25%" align="center">
-
-<sub>CREATIVE</sub>
-
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=figma,ae,pr,blender&perline=4"/>
 
 <br><br>
 
-<code>UI / UX</code> · <code>Visual Design</code><br>
-<code>Video Editing</code> · <code>Creative Tech</code>
+<code>CREATIVE</code>
+
+<br>
+
+UI / UX · Figma<br>
+Motion · Visual Design
 
 </td>
 
@@ -123,211 +128,203 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:05060A,35:201A3D,50:8B5CF6,65:201A3D,100:05060A&animation=twinkling" width="94%"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" width="100%" alt="system divider"/>
+</p>
 
 <br>
 
-## PROJECT FIELD
+## SELECTED WORK
 
 <div align="center">
 
-<sub>// CLASSIFIED ARCHIVE &nbsp; // &nbsp; PRODUCTION SYSTEMS</sub>
+<sub>02 // SYSTEM ARCHIVE</sub>
 
 <br><br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="20%" align="center">
 
-<sub>01 // CORE_QA</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=0:05060A,40:0B1724,75:00B8D4,100:00E5FF&text=QA-SENTINEL&fontColor=00E5FF&fontSize=13&fontAlignY=50&animation=fadeIn" width="94%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:07111F,55:0B3040,100:00E5FF&text=QA-SENTINEL&fontColor=67E8F9&fontSize=13&fontAlignY=52&animation=fadeIn" width="96%"/>
 
 <br>
 
-**QA-SENTINEL**
+<sub>QA AUTOMATION</sub>
+
+<br><br>
 
 `PYTHON` · `AI`
+
+<br>
 
 Automated QA engineering.
 
 <br>
 
-<a href="https://github.com/dhruvagarwal4543/QA-Sentinel">VIEW ↗</a>
+<a href="https://github.com/dhruvagarwal4543/QA-Sentinel">REPO ↗</a>
 
 </td>
 
 <td width="20%" align="center">
 
-<sub>02 // VISION</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=0:05060A,40:161029,75:6934D7,100:8B5CF6&text=LENS%20%2F%2F%20AI&fontColor=8B5CF6&fontSize=14&fontAlignY=50&animation=fadeIn" width="94%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:07111F,55:21164A,100:8B5CF6&text=LENS%20%2F%2F%20AI&fontColor=C4B5FD&fontSize=14&fontAlignY=52&animation=fadeIn" width="96%"/>
 
 <br>
 
-**LENS // AI**
+<sub>VISION SYSTEM</sub>
+
+<br><br>
 
 `AWS` · `PYTHON`
+
+<br>
 
 Computer vision analytics.
 
 <br>
 
-<a href="https://github.com/dhruvagarwal4543/LENS-AI-Dashboard">VIEW ↗</a>
+<a href="https://github.com/dhruvagarwal4543/LENS-AI-Dashboard">REPO ↗</a>
 
 </td>
 
 <td width="20%" align="center">
 
-<sub>03 // REKOGNITION</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=0:05060A,40:24101D,75:C52C76,100:EC4899&text=FACE%20%2F%2F%20TRACE&fontColor=EC4899&fontSize=13&fontAlignY=50&animation=fadeIn" width="94%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:07111F,55:351326,100:EC4899&text=FACE%20%2F%2F%20TRACE&fontColor=F9A8D4&fontSize=13&fontAlignY=52&animation=fadeIn" width="96%"/>
 
 <br>
 
-**FACE // TRACE**
+<sub>COMPUTER VISION</sub>
 
-`S3` · `DYNAMODB`
+<br><br>
+
+`S3` · `REKOGNITION`
+
+<br>
 
 Face recognition pipeline.
 
 <br>
 
-<a href="https://github.com/dhruvagarwal4543/FaceTrack-">VIEW ↗</a>
+<a href="https://github.com/dhruvagarwal4543/FaceTrack-">REPO ↗</a>
 
 </td>
 
 <td width="20%" align="center">
 
-<sub>04 // TRANSIT</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=0:05060A,40:0D1D2A,75:198BC0,100:38BDF8&text=SKYPORT&fontColor=38BDF8&fontSize=14&fontAlignY=50&animation=fadeIn" width="94%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:07111F,55:103449,100:38BDF8&text=SKYPORT&fontColor=7DD3FC&fontSize=15&fontAlignY=52&animation=fadeIn" width="96%"/>
 
 <br>
 
-**SKYPORT**
+<sub>AVIATION APP</sub>
+
+<br><br>
 
 `FLUTTER` · `DART`
+
+<br>
 
 Airport companion.
 
 <br>
 
-<a href="https://github.com/dhruvagarwal4543/Skyport">VIEW ↗</a>
+<a href="https://github.com/dhruvagarwal4543/Skyport">REPO ↗</a>
 
 </td>
 
 <td width="20%" align="center">
 
-<sub>05 // ENTERPRISE</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=38&color=0:05060A,40:102016,75:16A34A,100:22C55E&text=OPS%20%2F%2F%20CORE&fontColor=22C55E&fontSize=13&fontAlignY=50&animation=fadeIn" width="94%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:07111F,55:12351F,100:22C55E&text=OPS%20%2F%2F%20CORE&fontColor=86EFAC&fontSize=13&fontAlignY=52&animation=fadeIn" width="96%"/>
 
 <br>
 
-**EMS // CORE**
+<sub>APPLICATION</sub>
 
-`APPLICATION` · `UI`
+<br><br>
+
+`UI` · `DATA`
+
+<br>
 
 Employee management.
 
 <br>
 
-<a href="https://github.com/dhruvagarwal4543/Employee-Management-App">VIEW ↗</a>
+<a href="https://github.com/dhruvagarwal4543/Employee-Management-App">REPO ↗</a>
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br>
 
-<code>TOTAL_SYSTEMS // 05</code>
-&nbsp;&nbsp;
-<code>SELECTED_ARCHIVE</code>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="circuit divider"/>
+</p>
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:05060A,30:153047,48:00E5FF,52:EC4899,70:153047,100:05060A&animation=twinkling" width="94%"/>
+<sub>03 // BUILD STREAM</sub>
 
-</div>
+<br><br>
 
-<br>
-
-## CURRENTLY BUILDING
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" align="center">
 
-<sub>01</sub>
+<samp>01</samp>
 
 <br>
 
-**INKLY**
+### INKLY
 
-`LOCAL-FIRST NOTES`
+<sub>LOCAL-FIRST / NOTES</sub>
 
-<br>
+<br><br>
 
-Handwriting-focused workspace
-for tablet writing.
+Handwriting-first workspace<br>
+for tablet interaction.
 
 </td>
 
 <td width="33%" align="center">
 
-<sub>02</sub>
+<samp>02</samp>
 
 <br>
 
-**CMFS**
+### CMFS
 
-`ACADEMIC WORKFLOWS`
+<sub>ACADEMIC / SYSTEMS</sub>
 
-<br>
+<br><br>
 
-Course file management system
+Course file management<br>
 for academic workflows.
 
 </td>
 
 <td width="33%" align="center">
 
-<sub>03</sub>
+<samp>03</samp>
 
 <br>
 
-**DHRUV.OS**
+### DHRUV.OS
 
-`DIGITAL ENVIRONMENT`
+<sub>DIGITAL / IDENTITY</sub>
 
-<br>
+<br><br>
 
-New iteration of my personal
-digital identity and portfolio.
+Rebuilding my personal<br>
+digital environment.
 
 </td>
 
@@ -338,11 +335,9 @@ digital identity and portfolio.
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:05060A,30:251B46,50:8B5CF6,70:251B46,100:05060A&animation=twinkling" width="94%"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%" alt="energy divider"/>
+</p>
 
 <br>
 
@@ -350,11 +345,11 @@ digital identity and portfolio.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvagarwal4543&show_icons=true&hide_border=true&bg_color=080A12&title_color=00E5FF&icon_color=8B5CF6&text_color=B8C0CC&include_all_commits=true&hide_rank=true" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvagarwal4543&show_icons=true&hide_border=true&bg_color=07111F&title_color=67E8F9&icon_color=8B5CF6&text_color=C4CBD5&include_all_commits=true&hide_rank=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvagarwal4543&layout=compact&hide_border=true&bg_color=080A12&title_color=00E5FF&text_color=B8C0CC&langs_count=6" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvagarwal4543&layout=compact&hide_border=true&bg_color=07111F&title_color=67E8F9&text_color=C4CBD5&langs_count=6" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=dhruvagarwal4543&theme=dark&hide_border=true&background=080A12&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" height="155"/>
+<img src="https://streak-stats.demolab.com?user=dhruvagarwal4543&theme=dark&hide_border=true&background=07111F&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" height="150"/>
 
 </div>
 
@@ -362,60 +357,64 @@ digital identity and portfolio.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:05060A,25:15263B,42:00E5FF,50:8B5CF6,58:00E5FF,75:15263B,100:05060A&animation=twinkling" width="94%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvagarwal4543&bg_color=07111F&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&area_color=111D30&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20//%20DHRUV.OS" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
 <br>
 
-## CONTRIBUTION FIELD <sub>// KEEP BUILDING</sub>
+<p align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="circuit divider"/>
+</p>
+
+<br>
+
+## CONTRIBUTION FIELD
 
 <div align="center">
 
-<sub>RUNNING ROUTE: PAC-SNAKE v2.04 &nbsp; // &nbsp; EATING COMMITS ON TRACE</sub>
+<sub>04 // PAC-SNAKE // CONTRIBUTION TRACE</sub>
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake"/>
 </picture>
 
 <br><br>
 
-<sub>
-VELOCITY: 60 FPS
-&nbsp;&nbsp; // &nbsp;&nbsp;
-ACTIVITY FIELD
-&nbsp;&nbsp; // &nbsp;&nbsp;
-CONTRIBUTION TRACE
-</sub>
-
-<br><br>
-
-<code>ACTIVITY RATIO: OPTIMAL</code>
-&nbsp;&nbsp;
-<code>CALENDAR_DAY</code>
-&nbsp;&nbsp;
+<code>ACTIVITY TRACE</code>
+&nbsp;·&nbsp;
 <code>KEEP BUILDING</code>
+&nbsp;·&nbsp;
+<code>COMMIT FIELD</code>
 
 </div>
+
+<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="cyber divider"/>
+</p>
+
+<br>
 
 ## NETWORK
 
 <div align="center">
 
 <a href="https://github.com/dhruvagarwal4543">
-<img src="https://img.shields.io/badge/GITHUB-080A12?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-07111F?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhruv-agarwal-356395324/">
-<img src="https://img.shields.io/badge/LINKEDIN-080A12?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
 
 <a href="mailto:agarwaldhruv192@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-080A12?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
 </a>
 
 </div>
@@ -424,10 +423,12 @@ CONTRIBUTION TRACE
 
 <div align="center">
 
-<sub>BUILDING SOFTWARE · EXPLORING SYSTEMS · LEARNING IN PUBLIC</sub>
+<samp>
+BUILDING SOFTWARE · EXPLORING SYSTEMS · LEARNING IN PUBLIC
+</samp>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&color=0:00E5FF,50:0A101C,100:05060A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=07111F&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
