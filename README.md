@@ -8,9 +8,7 @@
 
 <br>
 
-<samp>
-&gt; SYSTEM ONLINE // DHRUV AGARWAL
-</samp>
+<samp>&gt; SYSTEM ONLINE // DHRUV AGARWAL</samp>
 
 <br><br>
 
@@ -18,15 +16,7 @@
 
 <br><br>
 
-<code>AI / ML</code>
-&nbsp;·&nbsp;
-<code>CLOUD</code>
-&nbsp;·&nbsp;
-<code>APP DEV</code>
-&nbsp;·&nbsp;
-<code>SYSTEMS</code>
-&nbsp;·&nbsp;
-<code>DESIGN</code>
+<code>AI / ML</code> · <code>CLOUD</code> · <code>APP DEV</code> · <code>SYSTEMS</code> · <code>DESIGN</code>
 
 <br><br>
 
@@ -71,7 +61,7 @@
 
 <br>
 
-Python · Dart · Java<br>
+Python · Dart · Java  
 JavaScript · TypeScript
 
 </td>
@@ -86,7 +76,7 @@ JavaScript · TypeScript
 
 <br>
 
-Flutter · React<br>
+Flutter · React  
 Git · GitHub · VS Code
 
 </td>
@@ -101,7 +91,7 @@ Git · GitHub · VS Code
 
 <br>
 
-AWS · OpenCV<br>
+AWS · OpenCV  
 ML · Computer Vision · Cloud
 
 </td>
@@ -116,7 +106,7 @@ ML · Computer Vision · Cloud
 
 <br>
 
-UI / UX · Figma<br>
+UI / UX · Figma  
 Motion · Visual Design
 
 </td>
@@ -155,13 +145,13 @@ Motion · Visual Design
 
 <br><br>
 
-`PYTHON` · `AI`
+<code>PYTHON</code> · <code>AI</code>
 
 <br>
 
 Automated QA engineering.
 
-<br>
+<br><br>
 
 <a href="https://github.com/dhruvagarwal4543/QA-Sentinel">REPO ↗</a>
 
@@ -177,13 +167,13 @@ Automated QA engineering.
 
 <br><br>
 
-`AWS` · `PYTHON`
+<code>AWS</code> · <code>PYTHON</code>
 
 <br>
 
 Computer vision analytics.
 
-<br>
+<br><br>
 
 <a href="https://github.com/dhruvagarwal4543/LENS-AI-Dashboard">REPO ↗</a>
 
@@ -199,13 +189,13 @@ Computer vision analytics.
 
 <br><br>
 
-`S3` · `REKOGNITION`
+<code>S3</code> · <code>REKOGNITION</code>
 
 <br>
 
 Face recognition pipeline.
 
-<br>
+<br><br>
 
 <a href="https://github.com/dhruvagarwal4543/FaceTrack-">REPO ↗</a>
 
@@ -221,13 +211,13 @@ Face recognition pipeline.
 
 <br><br>
 
-`FLUTTER` · `DART`
+<code>FLUTTER</code> · <code>DART</code>
 
 <br>
 
 Airport companion.
 
-<br>
+<br><br>
 
 <a href="https://github.com/dhruvagarwal4543/Skyport">REPO ↗</a>
 
@@ -243,13 +233,13 @@ Airport companion.
 
 <br><br>
 
-`UI` · `DATA`
+<code>UI</code> · <code>DATA</code>
 
 <br>
 
 Employee management.
 
-<br>
+<br><br>
 
 <a href="https://github.com/dhruvagarwal4543/Employee-Management-App">REPO ↗</a>
 
@@ -283,13 +273,15 @@ Employee management.
 
 <br>
 
-### INKLY
+<b>INKLY</b>
+
+<br>
 
 <sub>LOCAL-FIRST / NOTES</sub>
 
 <br><br>
 
-Handwriting-first workspace<br>
+Handwriting-first workspace  
 for tablet interaction.
 
 </td>
@@ -300,13 +292,15 @@ for tablet interaction.
 
 <br>
 
-### CMFS
+<b>CMFS</b>
+
+<br>
 
 <sub>ACADEMIC / SYSTEMS</sub>
 
 <br><br>
 
-Course file management<br>
+Course file management  
 for academic workflows.
 
 </td>
@@ -317,13 +311,15 @@ for academic workflows.
 
 <br>
 
-### DHRUV.OS
+<b>DHRUV.OS</b>
+
+<br>
 
 <sub>DIGITAL / IDENTITY</sub>
 
 <br><br>
 
-Rebuilding my personal<br>
+Rebuilding my personal  
 digital environment.
 
 </td>
@@ -355,41 +351,40 @@ digital environment.
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvagarwal4543&bg_color=07111F&color=67E8F9&line=8B5CF6&point=FFFFFF&area=true&area_color=111D30&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20//%20DHRUV.OS" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
-<br>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="circuit divider"/>
 </p>
 
 <br>
 
-## CONTRIBUTION FIELD
+## CONTRIBUTION SNAKE
 
 <div align="center">
 
-<sub>04 // PAC-SNAKE // CONTRIBUTION TRACE</sub>
+<sub>04 // CONTRIBUTION TRACE</sub>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake-dark.svg" width="96%" alt="GitHub contribution snake"/>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/dhruvagarwal4543/dhruvagarwal4543/output/github-contribution-grid-snake-dark.svg"
+    width="96%"
+    alt="GitHub contribution snake"/>
+
 </picture>
 
 <br><br>
 
-<code>ACTIVITY TRACE</code>
-&nbsp;·&nbsp;
-<code>KEEP BUILDING</code>
-&nbsp;·&nbsp;
-<code>COMMIT FIELD</code>
+<code>ACTIVITY TRACE</code> · <code>KEEP BUILDING</code>
 
 </div>
 
@@ -423,9 +418,7 @@ digital environment.
 
 <div align="center">
 
-<samp>
-BUILDING SOFTWARE · EXPLORING SYSTEMS · LEARNING IN PUBLIC
-</samp>
+<samp>BUILDING SOFTWARE · EXPLORING SYSTEMS · LEARNING IN PUBLIC</samp>
 
 <br><br>
 
